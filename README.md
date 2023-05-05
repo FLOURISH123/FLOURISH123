@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FLOURISH123
-- 👀 I’m interested in Machine Learning and Medical Imaging using 3D Slicer and SimpleITK
-- 🌱 I’m currently learning MRI Imaging Visualiation, Analysis, Segmentation and Registration 
-- 💞️ I’m looking to collaborate on Machine Learning and Medical Imaging
+- 👀 I’m interested in Single Cell Data Analysis
+- 🌱 I’m currently learning working with genomic data, Fastq files, Single Cell Data Analysis
+- 💞️ I’m looking to collaborate on Single Cell Data Analysis
 - 📫 How to reach me ...flourishhappy@gmail.com
 
 <!---
